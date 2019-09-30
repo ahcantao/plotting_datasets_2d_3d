@@ -3,4 +3,4 @@ Creating and plotting some 2D and 3D artificial/synthetic datasets from 'mlbench
 
 New datasets can be added, just by inserting it's function call to the end of the 'datasetNames' list.
 
-This script was created as an example, to demonstrate the datasets shape patterns.
+This script was created as an example, to demonstrate some datasets shape patterns.

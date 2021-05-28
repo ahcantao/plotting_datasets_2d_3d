@@ -1,6 +1,7 @@
 require(mlbench)
 require(KODAMA)
 require(gridExtra)
+require(lattice)
 
 datasetNames_2d <- c("mlbench.spirals(n=examples, cycles=2, sd=0.05)",
                      "mlbench.cassini(n=examples)",
